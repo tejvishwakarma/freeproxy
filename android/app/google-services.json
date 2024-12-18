@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "423582732659",
+    "project_id": "freeproxy-39984",
+    "storage_bucket": "freeproxy-39984.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423582732659:android:708b4ad3d1d0a80f4db506",
+        "android_client_info": {
+          "package_name": "com.digitalchitrakar.freeproxy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2OHylQEEUORbMk5fYipN27Izq00hYcQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
